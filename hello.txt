@@ -1,4 +1,0 @@
-Hello Git!
-This is my first Git project.
-This is a new feature line.
-This is from the new-feature branch.
